@@ -1,0 +1,5 @@
+git add -A
+	takes on to staging 
+git commit -m ""
+git init<folder>
+git status
